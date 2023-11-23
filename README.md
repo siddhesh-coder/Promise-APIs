@@ -40,3 +40,7 @@
 ## Note:
 - If all fail, it will throw an `AggregateError`, and if you want an array of errors `[err1, err2, 
   err3]`, then use `console.log(err.errors)`.
+
+
+## Meaning of Settled:
+![Local Image](Screenshot%20(180).png)
